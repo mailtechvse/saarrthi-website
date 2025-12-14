@@ -34,7 +34,7 @@ const Navbar: React.FC = () => {
                 </button>
 
                 {/* Mobile Menu Overlay */}
-                <div className={`mobile - menu ${isMenuOpen ? 'open' : ''} `}>
+                <div className={`mobile-menu ${isMenuOpen ? 'open' : ''}`}>
                     <div className="mobile-nav-links">
                         <Link to="/terms" className="mobile-nav-link" onClick={closeMenu}>Terms</Link>
                         <Link to="/privacy" className="mobile-nav-link" onClick={closeMenu}>Privacy</Link>
