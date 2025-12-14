@@ -141,7 +141,7 @@ const Privacy: React.FC = () => {
                     <h2>7. Grievance Redressal and Contact Information</h2>
                     <p>If you have any questions or wish to exercise your rights, please contact our designated Grievance Officer:</p>
                     <div style={{ padding: '16px', background: 'rgba(56, 189, 248, 0.1)', borderRadius: '8px', marginTop: '16px' }}>
-                        <p><strong>Grievance Officer:</strong> [Name of Grievance Officer]</p>
+                        <p><strong>Grievance Officer:</strong> Amar Sood</p>
                         <p><strong>Designation:</strong> Chief Compliance Officer</p>
                         <p><strong>Email:</strong> contact@saarrthi.ai</p>
                         <p><strong>Address:</strong> Integrated Money Matters Private Limited</p>
